@@ -1,1 +1,2 @@
 Este es el tercer archivo creado en GitHub
+modificamos en GitHub para probar el git checkout origin/main y el git checkout main para volver al local.
